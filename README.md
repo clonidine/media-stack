@@ -2,7 +2,8 @@
 - **Jellyfin**
 - **Jackett**
 - **Radarr**
-- **Flaresolver**
+- **Flaresolverr**
+- **qBitTorrent**
 
 ## Requirements
 - **Docker (25.0.2 tested version)**
