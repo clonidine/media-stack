@@ -3,7 +3,7 @@
 - **Jackett**
 - **Radarr**
 - **Flaresolverr**
-- **qBitTorrent**
+- **qBittorrent**
 
 ## Requirements
 - **Docker (25.0.2 tested version)**
