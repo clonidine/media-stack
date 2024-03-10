@@ -1,3 +1,9 @@
+## Stack
+- **Jellyfin**
+- **Jackett**
+- **Radarr**
+- **Flaresolver**
+
 ## Requirements
 - **Docker (25.0.2 tested version)**
 - **Docker compose (2.24.5 tested version)**
